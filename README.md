@@ -6,10 +6,10 @@ Differential scanning calorimetry (DSC) is a powerful method to study temperatur
 
 # Dependency
 
--numpy
--pandas
--scipy
--matplotlib
+- numpy
+- pandas
+- scipy
+- matplotlib
 
 # Usage
 
